@@ -10,6 +10,8 @@ Brasília, Distrito Federal · [LinkedIn](https://www.linkedin.com/in/jessica-ca
 
 Sou **Jéssica Caroline da Silva Dias**, analista de Projetos e Processos, com experiência em **PMO, melhoria contínua, qualidade e governança documental**. Tenho MBA em Gestão de Projetos e graduação em Análise e Desenvolvimento de Sistemas. Minha trajetória conecta gestão, tecnologia e atendimento, com atuação em cronogramas, riscos, indicadores, documentação e acompanhamento de implantações.
 
+Na atuação em PMO, acompanhei múltiplos projetos de gestão, tecnologia, melhoria de processos, produtos e CRM. Também preparei relatórios de acompanhamento (OPR), consolidando status, prazos, impedimentos e próximas ações para as revisões com a gestão.
+
 Utilizo **Monday.com, Bizagi, Excel, Google Sheets, Looker Studio e Power BI** em atividades de organização, modelagem de processos e análise de informações. Entre as entregas apresentadas estão mapas AS IS e TO BE em BPMN, controles de acompanhamento, propostas de melhoria e ferramentas de apoio à gestão.
 
 Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA para qualidade** e a ferramenta de **classificação e numeração SGQ**, além de projetos de mapeamento de processos, comunicação profissional e maturidade de dados. Cada apresentação relaciona o problema, a abordagem, as ferramentas e as entregas demonstráveis, com descrições e imagens.
