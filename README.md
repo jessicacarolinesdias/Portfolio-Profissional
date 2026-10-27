@@ -8,13 +8,17 @@ Brasília, Distrito Federal · [LinkedIn](https://www.linkedin.com/in/jessica-ca
 
 ## Sobre mim e este portfólio
 
-Sou **Jéssica Caroline da Silva Dias**, analista de Projetos e Processos, com experiência em **PMO, melhoria contínua, qualidade e governança documental**. Tenho MBA em Gestão de Projetos e graduação em Análise e Desenvolvimento de Sistemas. Minha trajetória conecta gestão, tecnologia e atendimento, com atuação em cronogramas, riscos, indicadores, documentação e acompanhamento de implantações.
+Sou **Jéssica Caroline da Silva Dias**, analista de Projetos e Processos, com experiência em **PMO, melhoria contínua, qualidade e governança documental**. Minha trajetória reúne gestão, tecnologia, suporte e atendimento, com foco em organizar informações, estruturar processos e acompanhar entregas.
 
-Na atuação em PMO, acompanhei múltiplos projetos de gestão, tecnologia, melhoria de processos, produtos e CRM. Também preparei relatórios de acompanhamento (OPR), consolidando status, prazos, impedimentos e próximas ações para as revisões com a gestão.
+Em **PMO**, acompanhei múltiplos projetos de gestão, tecnologia, melhoria de processos, produtos e CRM, utilizando **Monday.com e ClickUp** na organização de cronogramas, marcos, riscos e planos de ação. Preparei **relatórios de acompanhamento (OPR)** e consolidei indicadores em **Excel, Google Sheets e Looker Studio** para apoiar revisões com a gestão. Utilizei **Miro** na organização visual de informações e acompanhei demandas e homologações envolvendo o **Fluig**.
 
-Utilizo **Monday.com, Bizagi, Excel, Google Sheets, Looker Studio e Power BI** em atividades de organização, modelagem de processos e análise de informações. Entre as entregas apresentadas estão mapas AS IS e TO BE em BPMN, controles de acompanhamento, propostas de melhoria e ferramentas de apoio à gestão.
+Na frente de **processos e qualidade**, trabalhei com mapeamento **AS IS e TO BE em BPMN**, utilizando **Bizagi** e apoio visual do **Figma**. Minha experiência inclui elaboração e revisão de normas, políticas e **Procedimentos Operacionais Padrão (POPs)**, organização documental, planos de ação do **Sistema de Gestão da Qualidade (SGQ)** e apoio a auditorias. Em projetos de análise, também utilizo **Excel e Power BI** para organizar informações e apresentar indicadores.
 
-Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA para qualidade** e a ferramenta de **classificação e numeração SGQ**, além de projetos de mapeamento de processos, comunicação profissional, maturidade de dados e uma coleção de **modelos de roadmaps**. Cada apresentação relaciona o problema, a abordagem, as ferramentas e as entregas demonstráveis, com descrições, imagens e materiais de consulta.
+Sou criadora do **CicloTrama**, ferramenta autoral de processos, projetos e operações em evolução. Também concebi o **Orion PMO**, protótipo de assistência a rotinas de projetos, um **assistente de IA para qualidade e documentação** e uma ferramenta de **classificação e numeração SGQ**. Na concepção e evolução dessas soluções, estruturo requisitos, regras de negócio e documentação, com apoio de IA e revisão humana das entregas.
+
+Tenho **MBA em Gestão de Projetos**, graduação em **Análise e Desenvolvimento de Sistemas** e licenciatura em **Letras – Português**. Essa formação conecta análise, organização e comunicação ao meu trabalho com projetos, processos e documentação.
+
+Este portfólio apresenta essas ferramentas e reúne projetos de **mapeamento de processos**, **comunicação e experiência do usuário**, **maturidade de dados** e uma coleção de **modelos editáveis de roadmaps**. As páginas mostram o problema abordado, minha contribuição, os métodos e as entregas de cada projeto, com imagens e materiais de consulta.
 
 ## Projetos
 
