@@ -42,7 +42,7 @@ Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA p
 - **Dados e acompanhamento:** organização de informações, indicadores, planilhas e painéis.
 - **Tecnologia e comunicação:** requisitos, documentação, suporte a sistemas e materiais de capacitação.
 
-Ferramentas de apoio na trajetória profissional: Monday.com, Miro, Fluig, Trello, Azure DevOps, Bizagi, Figma, Excel, Google Sheets, Looker Studio, Power BI, TOPdesk, Salesforce, Comunix e Wiki interna. As ferramentas são apresentadas conforme as experiências e os projetos descritos.
+Ferramentas de apoio na trajetória profissional: Monday.com, ClickUp, Miro, Fluig, Trello, Azure DevOps, Bizagi, Figma, Excel, Google Sheets, Looker Studio, Power BI, TOPdesk, Salesforce, Comunix e Wiki interna. As ferramentas são apresentadas conforme as experiências e os projetos descritos.
 
 ## Como ler as evidências
 
