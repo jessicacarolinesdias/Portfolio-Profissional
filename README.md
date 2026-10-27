@@ -5,9 +5,14 @@
 **Projetos e Processos · PMO · Qualidade · Melhoria Contínua**  
 Brasília, Distrito Federal · [LinkedIn](https://www.linkedin.com/in/jessica-carolines-dias/)
 
-Atuo na organização de projetos e processos, na documentação de rotinas e na análise de informações para acompanhamento e decisão. Minha trajetória conecta gestão de projetos, qualidade, suporte a sistemas e atendimento.
 
-Este portfólio apresenta ferramentas autorais, práticas de análise e materiais profissionais. Cada projeto descreve o problema, a abordagem, a entrega e os limites do que está demonstrado.
+## Sobre mim e este portfólio
+
+Sou **Jéssica Caroline da Silva Dias**, analista de Projetos e Processos, com experiência em **PMO, melhoria contínua, qualidade e governança documental**. Tenho MBA em Gestão de Projetos e graduação em Análise e Desenvolvimento de Sistemas. Minha trajetória conecta gestão, tecnologia e atendimento, com atuação em cronogramas, riscos, indicadores, documentação e acompanhamento de implantações.
+
+Utilizo **Monday.com, Bizagi, Excel, Google Sheets, Looker Studio e Power BI** em atividades de organização, modelagem de processos e análise de informações. Entre as entregas apresentadas estão mapas AS IS e TO BE em BPMN, controles de acompanhamento, propostas de melhoria e ferramentas de apoio à gestão.
+
+Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA para qualidade** e a ferramenta de **classificação e numeração SGQ**, além de projetos de mapeamento de processos, comunicação profissional e maturidade de dados. Cada apresentação relaciona o problema, a abordagem, as ferramentas e as entregas demonstráveis, com descrições e imagens.
 
 ## Projetos
 
