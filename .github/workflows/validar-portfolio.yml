@@ -1,0 +1,23 @@
+name: Verificar documentação do portfólio
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  documentacao:
+    name: Links locais e imagens PNG
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Obter arquivos
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Verificar documentação
+        run: python3 scripts/validar_portfolio.py

@@ -26,6 +26,13 @@ Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA p
 | [O Poder de Conectar e Transformar](projetos/conectar-transformar/) | Capacitação em comunicação, empatia e experiência. |
 | [Maturidade de Dados](projetos/maturidade-dados/) | Estudo sobre governança e transformação organizacional. |
 
+## Explore o portfólio
+
+- [Guia de consulta](docs/wiki/Home.md): projetos, metodologia, ferramentas e perguntas frequentes.
+- [Plano de evolução](ROADMAP.md): próximos passos e tarefas de acompanhamento.
+- [Sugestões e melhorias](https://github.com/jessicacarolinesdias/Portfolio-Profissional/issues): espaço para registrar observações sobre as apresentações.
+- [Verificações da documentação](https://github.com/jessicacarolinesdias/Portfolio-Profissional/actions): conferência automática de referências locais e imagens PNG.
+
 ## Competências de trabalho
 
 - **Projetos e PMO:** cronogramas, marcos, riscos, planos de ação, status e acompanhamento de implantação.
