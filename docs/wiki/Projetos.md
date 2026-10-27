@@ -11,6 +11,7 @@ As apresentações relacionam **ação, ferramenta ou método e entrega demonstr
 | [Mapeamento e Otimização de Processos](../../projetos/mapeamento-processos/README.md) | Analisar fluxos, pontos críticos e propostas de melhoria. | BPMN, AS IS e TO BE, Excel, Power BI e planos de ação. | Mapas, análises e organização de propostas para acompanhamento. |
 | [O Poder de Conectar e Transformar](../../projetos/conectar-transformar/README.md) | Elaborar e organizar conteúdo de capacitação. | Comunicação, empatia, clareza da linguagem e experiência do usuário. | Material informado com 75 slides em seis módulos e síntese pública dos temas. |
 | [Maturidade de Dados](../../projetos/maturidade-dados/README.md) | Pesquisar, sintetizar e redigir conteúdo de orientação. | Governança, qualidade de dados, integração e Business Intelligence. | Estudo e material sobre práticas de maturidade de dados. |
+| [Modelos de Roadmaps](../../projetos/modelos-roadmaps/README.md) | Estruturar modelos, campos de planejamento, exemplos e instruções de uso. | Roadmaps estratégicos, portfólio PMO, implantação, AS IS e TO BE, SGQ e priorização por horizonte. | Planilha com 13 abas, guia visual de oito páginas e seis modelos em Markdown. |
 
 ## Estágios e evidências
 
@@ -19,6 +20,7 @@ As apresentações relacionam **ação, ferramenta ou método e entrega demonstr
 - **SGQ:** protótipo para composição de referências; aprovação documental e controle de versões são atividades distintas.
 - **Mapeamento de processos:** análise e propostas descritas por suas entregas.
 - **Comunicação e maturidade de dados:** materiais autorais de capacitação e estudo.
+- **Modelos de Roadmaps:** coleção editável publicada, com seis modelos e exemplos fictícios. Os cenários não representam aplicação ou resultados de empresas.
 
 As ilustrações dos projetos estão identificadas nas respectivas apresentações. Percentuais de produtividade, economia e adoção só devem integrar o portfólio quando houver registros que sustentem essas afirmações.
 

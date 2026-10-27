@@ -4,9 +4,10 @@ Este plano acompanha melhorias do portfólio e da forma de demonstrar os trabalh
 
 ## Base publicada
 
-- Apresentação profissional e sete páginas de projetos.
+- Apresentação profissional e oito páginas de projetos.
 - Imagens e descrições dos trabalhos apresentados.
 - Guia de consulta e orientações para sugestões.
+- [Coleção de seis modelos de roadmaps](projetos/modelos-roadmaps/README.md), com planilha editável e guia visual.
 
 ## Melhorias planejadas
 

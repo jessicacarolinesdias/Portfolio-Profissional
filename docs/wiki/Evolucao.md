@@ -4,11 +4,12 @@ O portfólio é mantido como uma apresentação profissional em evolução. O ac
 
 ## Materiais apresentados
 
-- Apresentação profissional e índice dos sete projetos.
+- Apresentação profissional e índice dos oito projetos.
 - Páginas com problema, abordagem, contribuição da autora e entregas.
 - Galeria do CicloTrama com dados demonstrativos.
 - Sínteses visuais identificadas nas demais apresentações.
 - Guia de consulta, orientações de contribuição e plano de evolução.
+- Coleção de seis modelos de roadmaps, com planilha editável, guia visual e exemplos fictícios.
 
 ## Próximos passos
 

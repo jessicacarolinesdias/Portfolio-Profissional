@@ -14,7 +14,7 @@ Na atuação em PMO, acompanhei múltiplos projetos de gestão, tecnologia, melh
 
 Utilizo **Monday.com, Bizagi, Excel, Google Sheets, Looker Studio e Power BI** em atividades de organização, modelagem de processos e análise de informações. Entre as entregas apresentadas estão mapas AS IS e TO BE em BPMN, controles de acompanhamento, propostas de melhoria e ferramentas de apoio à gestão.
 
-Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA para qualidade** e a ferramenta de **classificação e numeração SGQ**, além de projetos de mapeamento de processos, comunicação profissional e maturidade de dados. Cada apresentação relaciona o problema, a abordagem, as ferramentas e as entregas demonstráveis, com descrições e imagens.
+Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA para qualidade** e a ferramenta de **classificação e numeração SGQ**, além de projetos de mapeamento de processos, comunicação profissional, maturidade de dados e uma coleção de **modelos de roadmaps**. Cada apresentação relaciona o problema, a abordagem, as ferramentas e as entregas demonstráveis, com descrições, imagens e materiais de consulta.
 
 ## Projetos
 
@@ -27,6 +27,7 @@ Este portfólio reúne o **CicloTrama**, o **Orion PMO**, o **assistente de IA p
 | [Mapeamento e Otimização de Processos](projetos/mapeamento-processos/) | Análise AS IS, proposta TO BE e acompanhamento. |
 | [O Poder de Conectar e Transformar](projetos/conectar-transformar/) | Capacitação em comunicação, empatia e experiência. |
 | [Maturidade de Dados](projetos/maturidade-dados/) | Estudo sobre governança e transformação organizacional. |
+| [Modelos de Roadmaps](projetos/modelos-roadmaps/) | Seis formatos editáveis para estratégia, PMO, sistemas, processos, SGQ e priorização. |
 
 ## Explore o portfólio
 
@@ -48,10 +49,12 @@ Ferramentas de apoio na trajetória profissional: Monday.com, ClickUp, Miro, Flu
 
 As capturas reais do CicloTrama estão identificadas e usam dados demonstrativos ou exemplos. Nos demais projetos, as ilustrações são sínteses criadas para o portfólio e não são apresentadas como capturas de ferramentas em uso.
 
+A coleção de **Modelos de Roadmaps** inclui planilha editável, guia visual e estruturas em Markdown. Seus cenários, datas e status são fictícios e servem à demonstração dos formatos.
+
 Os resultados são descritos como entregas verificáveis ou objetivos a medir. Indicadores de demonstração não representam ganhos de uma empresa. Projetos ligados a contextos organizacionais são apresentados de forma genérica, sem identificação das organizações ou divulgação de suas informações internas.
 
 ## Publicação dos materiais
 
-Esta é uma vitrine de textos e imagens. Implementações, instaladores, prompts, dados e arquivos internos não integram esta publicação.
+Esta é uma vitrine de textos, imagens e modelos de planejamento. Os arquivos públicos da coleção de roadmaps estão identificados na página do projeto. Implementações dos protótipos, instaladores, prompts, dados operacionais e arquivos internos não integram esta publicação.
 
 [Direitos sobre os materiais](COPYRIGHT.md).
